@@ -9,6 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.6.4",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@mollie/api-client": "^3.5.1",
+    "framer-motion": "^4",
+    "googleapis": "^78.0.0",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.15",
     "next": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
